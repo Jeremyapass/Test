@@ -1,1 +1,2 @@
 Hal ini Jerry pertama commit 
+nah ini yang mantap nya ni untuk rebase
